@@ -1,8 +1,8 @@
 # javascript-revision
 This is javascript course
 
-### Strings in javascript:
-**String Methods**
+### **Strings in javascript(methods)**:
+
 #### 1. `Length` 
 return the length of the string
 ``` js
