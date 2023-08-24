@@ -80,4 +80,4 @@ let userTwo = userOne;
 userTwo.email = "sanjiv@gmail.com";
 
 console.log(userOne.email); //sanjiv@gmail.com => its change the original value
-console.log(userTwo.email); //sanjiv@gmail.com
+console.log(userTwo.email); //sanjiv@gmail.com => update original value
